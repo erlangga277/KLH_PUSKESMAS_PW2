@@ -1,9 +1,9 @@
 <!-- /.content-wrapper -->
 <footer class="main-footer">
-    <strong>Copyright &copy; <?= date("Y") ?> <a href="https://alwafisysdev.tech">alwafisysdev</a>.</strong>
+    <strong>Copyright &copy; <?= date("Y") ?> <a href="https://www.instagram.com/a.erlangg44/">ErlanggaAbd</a>.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
-        <b>Version</b> 3.2.0
+        <b>Version</b> 2.1.2
     </div>
 </footer>
 
